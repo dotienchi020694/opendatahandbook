@@ -2,6 +2,5 @@
 section: terms
 lang: vi
 title: Thu hồi chi phí
----
-
-Nguyên tắc đặt giá cho một tài nguyên, chẳng hạn như dữ liệu, nhằm thu lại khoản chi phí của việc thu thập dữ liệu đó, phân biệt với [chi phí cận biên](../marginal-cost/).  Dữ liệu được thu tiền theo nguyên tắc thu hồi chi phí thì không phải là dữ liệu mở xét theo [Định nghĩa Mở](../open-definition/). Các nghiên cứu chỉ ra rằng thu phí của Thông tin Khu vực Công (PSI) theo nguyên tắc thu hồi chi phí dẫn đến sự tăng trưởng thấp hơn so với cách tính giá miễ phí hoặc chi phí cận biên.
+---í
+Nguyên tắc của việc xây dựng một mức gía cho một nguồn tài nguyên ví dụ như dữ liệu,nhằm mục đích phục hồi chi phí từ việc thu thập dữ liệu, phân biệt với từ [Gía trị cận biên](../marginal-cost/). Dữ liệu mà mất phí cho việc thu thập dữ liệu thì không phải là dữ liệu mở theo [Định nghĩa dữ liệu mở](../open-definition/). Nghiên cứu cho thấy việc tính phí cho PSI dựa trên cơ sở của chi phí phục hồi sẽ làm giam sự phát triển so với việc miễn phí hoặc chi phí của gía trị cận biên.
